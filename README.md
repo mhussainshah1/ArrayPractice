@@ -1,4 +1,5 @@
- 
+# Practice with Arrays
+
 1. Create an array to hold the numbers 1-10.
 2. Loop through that array and sum the numbers 1-10, then print that total to the screen.
 3. Create an array to hold 10 number inputs from the user and print that total to the screen.
