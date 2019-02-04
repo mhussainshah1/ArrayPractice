@@ -1,10 +1,10 @@
  
-1.Create an array to hold the numbers 1-10.
-2.Loop through that array and sum the numbers 1-10, then print that total to the screen.
-3.Create an array to hold 10 number inputs from the user and print that total to the screen.
-4.Get 10 number inputs from the user, store them in an array and get the average of those 10 numbers.
+1. Create an array to hold the numbers 1-10.
+2. Loop through that array and sum the numbers 1-10, then print that total to the screen.
+3. Create an array to hold 10 number inputs from the user and print that total to the screen.
+4. Get 10 number inputs from the user, store them in an array and get the average of those 10 numbers.
 5.Create an array to store 3 names, loop through that array to print out the names.
-6.Create an array with the following values: [2,5,9,0,2,1,8,5,4] Loop through the array and print out the index each time the value equals 5.
+6. Create an array with the following values: [2,5,9,0,2,1,8,5,4] Loop through the array and print out the index each time the value equals 5.
 
 =========================================
 
